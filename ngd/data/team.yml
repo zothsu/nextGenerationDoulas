@@ -1,0 +1,23 @@
+enable  : true
+title   : Team that makes the difference.
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : EMILIE YOUNG
+    designation : CEO
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-two.jpg
+    name        : ZOE SULLIVAN
+    designation : Web Designer
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-three.jpg
+    name        : ALEX NAASRI
+    designation : Chief Design Officer
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
